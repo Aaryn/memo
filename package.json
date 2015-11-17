@@ -1,0 +1,12 @@
+{
+    "main": "index.html",
+    "name": "sample-app",
+    "description": "demo app of node-webkit",
+    "version": "0.1.0",
+    "window": {
+        "toolbar": false,
+        "resizable": false,
+        "width": 800,
+        "height": 500
+    }
+}
